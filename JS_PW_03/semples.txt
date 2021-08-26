@@ -1,0 +1,35 @@
+// const arrHundred = Array.from({ length: 101 }, (v, i) => i++);
+// alert(arrHundred);
+
+// let simpleNub = [];
+
+// console.log(arrHundred)
+
+
+// let n = 100;
+// let simpleNub = [];
+// let simpleNub2 = [];
+
+// nextPrime:
+// for (let i = 2; i <= n; i++) { // Для всех i...
+
+//     for (let j = 2; j < i; j++) { // проверить, делится ли число..
+//         if (i % j == 0) continue nextPrime; // не подходит, берём следующее
+//     }
+
+//     // alert(i); // простое число
+//     simpleNub.push(i)
+// }
+
+// console.log(simpleNub)
+
+// let a = 2;
+// let b = 2;
+
+// while (a <= n) {
+//     a++
+
+
+
+
+// }
